@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "McFlysMC.aternos.me:52628",
+    "ip": "McFlysMC.aternos.me",
     "port": 52628,
     "version": "",
     "try-creative": false
